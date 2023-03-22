@@ -7,7 +7,7 @@ const staticPath = path.join(__dirname, "./Partials");
 const stylePath = path.join(__dirname, "./css");
 const bcrypt = require("bcryptjs");
 const Detail = require("./Schema");
-require("../Practical1/conn");
+require("./conn");
 app.set("view engine", "hbs");
 
 app.use(express.urlencoded({ extended: true }));
