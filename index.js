@@ -1,3 +1,4 @@
+require('dotenv').config()
 const express = require("express");
 const app = express();
 const path = require("path");
@@ -27,6 +28,8 @@ app.post("/Register", async (req, res) => {
       email: req.body.email,
       password: req.body.password,
     });
+
+    const token = await Data.generateToken();
     const response = await Data.save();
     res.status(200).render("Register");
   } catch (error) {
@@ -47,9 +50,10 @@ app.post("/login", async (req, res) => {
   try {
     const email = req.body.email;
     const password = req.body.password;
-
-    const Login = await Detail.find({ email: email });
-    const isMatch = await bcrypt.compare(password, Login[0].password);
+    const userEmail = await Detail.find({ email: email });
+    const isMatch = await bcrypt.compare(password, userEmail[0].password);
+    const token = await userEmail[0].generateToken();
+    console.log(token);
     console.log(isMatch);
     if (isMatch) {
       res.status(200).render("Index", {
