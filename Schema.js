@@ -25,7 +25,6 @@ Data.pre("save", async function (next){
 Data.methods.generateToken = async function(){
     try {
         const token  = jwt.sign(this._id.toString(),process.env.SECRET_KEY)
-        console.log(token);
         this.tokens = this.tokens.concat({token:token});
         await this.save();
         return token;
