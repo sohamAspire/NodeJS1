@@ -1,0 +1,237 @@
+[{
+  "_id": {
+    "$oid": "641ab42a3d3911818f189425"
+  },
+  "firstname": "Soham",
+  "lastname": "Patel",
+  "email": "aas@sdfsfsasda",
+  "password": "asd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641abdc41bae7b1f48503bc8"
+  },
+  "firstname": "asd",
+  "lastname": "asdasd",
+  "email": "asd@sdfsdfs",
+  "password": "asdada",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ace0a7b184e21312c0525"
+  },
+  "firstname": "asd",
+  "lastname": "asd",
+  "email": "xcv@sdgfdsasdas",
+  "password": "asdas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ace269e9357eb7edb3be4"
+  },
+  "firstname": "asadd",
+  "lastname": "asdas",
+  "email": "asd@sdasd",
+  "password": "asdasdasd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ace3e390dcde24984fe3b"
+  },
+  "firstname": "asadd",
+  "lastname": "asdas",
+  "email": "asd@sdasd",
+  "password": "asdasdasd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ace9481d811ca61031c59"
+  },
+  "firstname": "AS",
+  "lastname": "ASAS",
+  "email": "asd@sdasd",
+  "password": "ASDAS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641aceaf84092aa1fddb93eb"
+  },
+  "firstname": "",
+  "lastname": "",
+  "email": "asd@sdasd",
+  "password": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641acf14bd8c925e4a414946"
+  },
+  "firstname": "asd",
+  "lastname": "asdas",
+  "email": "asd@sdasd",
+  "password": "asd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641acfd3178352726b5e1739"
+  },
+  "firstname": "asd",
+  "lastname": "asdas",
+  "email": "asdasd@sdasd",
+  "password": "asdas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641acfe67b1d9c1b1f42fc5d"
+  },
+  "firstname": "sadasd",
+  "lastname": "asdas",
+  "email": "manager@adasd.com",
+  "password": "weqewqe",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad0127bde9cf678b3b2ba"
+  },
+  "firstname": "sda",
+  "lastname": "asda",
+  "email": "asdasd@sdfsdf",
+  "password": "asdasda",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad0947bde9cf678b3b2bc"
+  },
+  "firstname": "asdas",
+  "lastname": "asdasd",
+  "email": "asdas@sfdasdas",
+  "password": "asdas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad0d67363f7b8239d04ef"
+  },
+  "firstname": "dhdhd",
+  "lastname": "sdds",
+  "email": "hsjhs@hsjsh.com",
+  "password": "kwnns",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad159843bd17e5c509cd1"
+  },
+  "firstname": "asdasd",
+  "lastname": "sdasdasd",
+  "email": "aasdasd@sdasfsd",
+  "password": "adasdasdas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad19e8d8aef0f4d90c459"
+  },
+  "firstname": "asdasd",
+  "lastname": "sdasdasd",
+  "email": "aasdasd@sdasfsd",
+  "password": "adasdasdas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad1a38d8aef0f4d90c45b"
+  },
+  "firstname": "asd",
+  "lastname": "asd",
+  "email": "asd@sdfsdfsas",
+  "password": "dasdas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad1bf6ba8149f8a471cfb"
+  },
+  "firstname": "asd",
+  "lastname": "asd",
+  "email": "aasdas@safsdf",
+  "password": "sdfsdfsdf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad34a109131b610f92224"
+  },
+  "firstname": "asdasd",
+  "lastname": "asdas",
+  "email": "asd2@dasfda",
+  "password": "$2a$10$Fbo80dfyBZWqk2e4S.RvyuvxGVFd9ND4hqTQeMQomSlJBJs2Wdakq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad36fb0715850dd64f56a"
+  },
+  "firstname": "sada",
+  "lastname": "asd",
+  "email": "asd@sdasda",
+  "password": "$2a$10$nGKVVQvM7xXDZTNEEDiOlupOd0QOh2W.X349MK76oS9YZj6kr/vee",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ad554ca12353e5482e44c"
+  },
+  "firstname": "Soha,m",
+  "lastname": "Patel",
+  "email": "soh@123",
+  "password": "$2a$10$vgxKbr3hW/IHty5lH47NuOnXukSyfM/TISFDJc8/0mE/ddrUhD7iy",
+  "__v": 15,
+  "tokens": []
+},{
+  "_id": {
+    "$oid": "641af05081eadc6555b575c4"
+  },
+  "firstname": "asd",
+  "lastname": "asd",
+  "email": "asd@sdfsdfs",
+  "password": "$2a$10$OKO634O8G4aJXSpWtoxyIeNVX4CzHkLQGZz/.w9.H2rJI8/JZwpWK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641af1c11bb0aa99a4e28c7e"
+  },
+  "firstname": "Soham",
+  "lastname": "Patel",
+  "email": "aas@sdfsfsasda",
+  "password": "$2a$10$btuhqTw5dgX.Nlpr9xESfux4Ehvm0iY.r9rmPhicerrMb6MxDf7JS",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiJ9.NjQxYWYxYzExYmIwYWE5OWE0ZTI4Yzdl.TrVNppHJAyen2v7696coiy4SfXxCZTMhk5dgFrXXoxw",
+      "_id": {
+        "$oid": "641af1c11bb0aa99a4e28c7f"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641bd751b04bd424817b12ee"
+  },
+  "firstname": "Soham",
+  "lastname": "Patel",
+  "email": "soham@123",
+  "password": "$2a$10$LrHEw/FANm40qXnLyKRZG.aXtboBVbTCfDWo4OQSwhoSGDEPea6uy",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiJ9.NjQxYmQ3NTFiMDRiZDQyNDgxN2IxMmVl.f2rhESavU3e8PDImQoU4tMn3UDghP8csJC3HFmM5qo8",
+      "_id": {
+        "$oid": "641bd751b04bd424817b12ef"
+      }
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiJ9.NjQxYmQ3NTFiMDRiZDQyNDgxN2IxMmVl.f2rhESavU3e8PDImQoU4tMn3UDghP8csJC3HFmM5qo8",
+      "_id": {
+        "$oid": "641bd8525340e86e497a6da2"
+      }
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiJ9.NjQxYmQ3NTFiMDRiZDQyNDgxN2IxMmVl.GT6aBJk6YoI2rqtGkId0i9qgLaJigvb6QtlGmMbydtU",
+      "_id": {
+        "$oid": "641c02002c797d6740b059ae"
+      }
+    }
+  ],
+  "__v": 16
+}]
